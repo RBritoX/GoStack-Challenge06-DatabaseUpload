@@ -19,7 +19,7 @@
 
   <img alt="TypeScript version" src="https://img.shields.io/badge/TypeScript-v3.8.3-blue?style=flat&logo=typescript">
 
-  <img alt="GitHub code size in bytes" src="https://api.codacy.com/project/badge/Grade/8f4e11eae8444f909717faec2ec3ef60">
+  <img alt="GitHub code size in bytes" src="https://api.codacy.com/project/badge/Grade/a721fe41b9884fd29c5098fbd86f4918">
 
   <a href="https://github.com/RBritoX/GoStack-Challenge06-DatabaseUpload/blob/master/LICENSE">
     <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-Challenge06-DatabaseUpload">
